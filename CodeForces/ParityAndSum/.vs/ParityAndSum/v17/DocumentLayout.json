@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudioProjects\\C#\\CodeForces\\ParityAndSum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{886696CA-D97C-47CA-9688-B9EEAA6300EB}|ParityAndSum\\ParityAndSum.csproj|d:\\visualstudioprojects\\c#\\codeforces\\parityandsum\\parityandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886696CA-D97C-47CA-9688-B9EEAA6300EB}|ParityAndSum\\ParityAndSum.csproj|solutionrelative:parityandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\C#\\CodeForces\\ParityAndSum\\ParityAndSum\\Program.cs",
+              "RelativeDocumentMoniker": "ParityAndSum\\Program.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\C#\\CodeForces\\ParityAndSum\\ParityAndSum\\Program.cs",
+              "RelativeToolTip": "ParityAndSum\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwv0wAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:23:33.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

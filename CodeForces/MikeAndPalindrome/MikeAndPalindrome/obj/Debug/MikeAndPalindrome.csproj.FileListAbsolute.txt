@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\MikeAndPalindrome\MikeAndPalindrome\bin\Debug\MikeAndPalindrome.exe.config
+D:\VisualStudioProjects\C#\CodeForces\MikeAndPalindrome\MikeAndPalindrome\bin\Debug\MikeAndPalindrome.exe
+D:\VisualStudioProjects\C#\CodeForces\MikeAndPalindrome\MikeAndPalindrome\bin\Debug\MikeAndPalindrome.pdb
+D:\VisualStudioProjects\C#\CodeForces\MikeAndPalindrome\MikeAndPalindrome\obj\Debug\MikeAndPalindrome.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\MikeAndPalindrome\MikeAndPalindrome\obj\Debug\MikeAndPalindrome.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\MikeAndPalindrome\MikeAndPalindrome\obj\Debug\MikeAndPalindrome.exe
+D:\VisualStudioProjects\C#\CodeForces\MikeAndPalindrome\MikeAndPalindrome\obj\Debug\MikeAndPalindrome.pdb

@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\YarikAndArray\YarikAndArray\bin\Debug\YarikAndArray.exe.config
+D:\VisualStudioProjects\C#\CodeForces\YarikAndArray\YarikAndArray\bin\Debug\YarikAndArray.exe
+D:\VisualStudioProjects\C#\CodeForces\YarikAndArray\YarikAndArray\bin\Debug\YarikAndArray.pdb
+D:\VisualStudioProjects\C#\CodeForces\YarikAndArray\YarikAndArray\obj\Debug\YarikAndArray.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\YarikAndArray\YarikAndArray\obj\Debug\YarikAndArray.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\YarikAndArray\YarikAndArray\obj\Debug\YarikAndArray.exe
+D:\VisualStudioProjects\C#\CodeForces\YarikAndArray\YarikAndArray\obj\Debug\YarikAndArray.pdb

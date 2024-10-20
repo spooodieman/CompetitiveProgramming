@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudioProjects\\C#\\CodeForces\\VladBestOfFive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE87191-42BD-4768-9B63-2522AF138ED6}|VladBestOfFive\\VladBestOfFive.csproj|d:\\visualstudioprojects\\c#\\codeforces\\vladbestoffive\\vladbestoffive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE87191-42BD-4768-9B63-2522AF138ED6}|VladBestOfFive\\VladBestOfFive.csproj|solutionrelative:vladbestoffive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\C#\\CodeForces\\VladBestOfFive\\VladBestOfFive\\Program.cs",
+              "RelativeDocumentMoniker": "VladBestOfFive\\Program.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\C#\\CodeForces\\VladBestOfFive\\VladBestOfFive\\Program.cs",
+              "RelativeToolTip": "VladBestOfFive\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvx4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T04:55:47.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

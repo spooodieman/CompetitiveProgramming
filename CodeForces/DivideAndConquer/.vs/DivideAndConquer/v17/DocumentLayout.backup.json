@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudioProjects\\C#\\CodeForces\\DivideAndConquer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27F4817C-2A19-415B-917D-977E53F95C0C}|DivideAndConquer\\DivideAndConquer.csproj|d:\\visualstudioprojects\\c#\\codeforces\\divideandconquer\\divideandconquer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F4817C-2A19-415B-917D-977E53F95C0C}|DivideAndConquer\\DivideAndConquer.csproj|solutionrelative:divideandconquer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\C#\\CodeForces\\DivideAndConquer\\DivideAndConquer\\Program.cs",
+              "RelativeDocumentMoniker": "DivideAndConquer\\Program.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\C#\\CodeForces\\DivideAndConquer\\DivideAndConquer\\Program.cs",
+              "RelativeToolTip": "DivideAndConquer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:38:44.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

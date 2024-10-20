@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\QueueAtSchool\QueueAtSchool\bin\Debug\QueueAtSchool.exe.config
+D:\VisualStudioProjects\C#\CodeForces\QueueAtSchool\QueueAtSchool\bin\Debug\QueueAtSchool.exe
+D:\VisualStudioProjects\C#\CodeForces\QueueAtSchool\QueueAtSchool\bin\Debug\QueueAtSchool.pdb
+D:\VisualStudioProjects\C#\CodeForces\QueueAtSchool\QueueAtSchool\obj\Debug\QueueAtSchool.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\QueueAtSchool\QueueAtSchool\obj\Debug\QueueAtSchool.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\QueueAtSchool\QueueAtSchool\obj\Debug\QueueAtSchool.exe
+D:\VisualStudioProjects\C#\CodeForces\QueueAtSchool\QueueAtSchool\obj\Debug\QueueAtSchool.pdb

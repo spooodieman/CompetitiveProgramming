@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\MatrixStabilisation\MatrixStabilisation\bin\Debug\MatrixStabilisation.exe.config
+D:\VisualStudioProjects\C#\CodeForces\MatrixStabilisation\MatrixStabilisation\bin\Debug\MatrixStabilisation.exe
+D:\VisualStudioProjects\C#\CodeForces\MatrixStabilisation\MatrixStabilisation\bin\Debug\MatrixStabilisation.pdb
+D:\VisualStudioProjects\C#\CodeForces\MatrixStabilisation\MatrixStabilisation\obj\Debug\MatrixStabilisation.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\MatrixStabilisation\MatrixStabilisation\obj\Debug\MatrixStabilisation.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\MatrixStabilisation\MatrixStabilisation\obj\Debug\MatrixStabilisation.exe
+D:\VisualStudioProjects\C#\CodeForces\MatrixStabilisation\MatrixStabilisation\obj\Debug\MatrixStabilisation.pdb

@@ -1,0 +1,7 @@
+C:\Users\anmol\source\repos\Rudolf and 121\Rudolf and 121\bin\Debug\Rudolf and 121.exe.config
+C:\Users\anmol\source\repos\Rudolf and 121\Rudolf and 121\bin\Debug\Rudolf and 121.exe
+C:\Users\anmol\source\repos\Rudolf and 121\Rudolf and 121\bin\Debug\Rudolf and 121.pdb
+C:\Users\anmol\source\repos\Rudolf and 121\Rudolf and 121\obj\Debug\Rudolf and 121.csproj.AssemblyReference.cache
+C:\Users\anmol\source\repos\Rudolf and 121\Rudolf and 121\obj\Debug\Rudolf and 121.csproj.CoreCompileInputs.cache
+C:\Users\anmol\source\repos\Rudolf and 121\Rudolf and 121\obj\Debug\Rudolf and 121.exe
+C:\Users\anmol\source\repos\Rudolf and 121\Rudolf and 121\obj\Debug\Rudolf and 121.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudioProjects\\C#\\CodeForces\\IchihimeandTriangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD57C89-76E3-4A07-BA0F-29BC0CFD66B0}|IchihimeandTriangle\\IchihimeandTriangle.csproj|d:\\visualstudioprojects\\c#\\codeforces\\ichihimeandtriangle\\ichihimeandtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD57C89-76E3-4A07-BA0F-29BC0CFD66B0}|IchihimeandTriangle\\IchihimeandTriangle.csproj|solutionrelative:ichihimeandtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\C#\\CodeForces\\IchihimeandTriangle\\IchihimeandTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "IchihimeandTriangle\\Program.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\C#\\CodeForces\\IchihimeandTriangle\\IchihimeandTriangle\\Program.cs",
+              "RelativeToolTip": "IchihimeandTriangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:20:43.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

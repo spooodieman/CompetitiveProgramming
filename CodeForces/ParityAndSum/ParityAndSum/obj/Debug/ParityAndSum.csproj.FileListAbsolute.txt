@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\ParityAndSum\ParityAndSum\bin\Debug\ParityAndSum.exe.config
+D:\VisualStudioProjects\C#\CodeForces\ParityAndSum\ParityAndSum\bin\Debug\ParityAndSum.exe
+D:\VisualStudioProjects\C#\CodeForces\ParityAndSum\ParityAndSum\bin\Debug\ParityAndSum.pdb
+D:\VisualStudioProjects\C#\CodeForces\ParityAndSum\ParityAndSum\obj\Debug\ParityAndSum.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\ParityAndSum\ParityAndSum\obj\Debug\ParityAndSum.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\ParityAndSum\ParityAndSum\obj\Debug\ParityAndSum.exe
+D:\VisualStudioProjects\C#\CodeForces\ParityAndSum\ParityAndSum\obj\Debug\ParityAndSum.pdb

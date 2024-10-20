@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\RequiredRemainder\RequiredRemainder\bin\Debug\RequiredRemainder.exe.config
+D:\VisualStudioProjects\C#\CodeForces\RequiredRemainder\RequiredRemainder\bin\Debug\RequiredRemainder.exe
+D:\VisualStudioProjects\C#\CodeForces\RequiredRemainder\RequiredRemainder\bin\Debug\RequiredRemainder.pdb
+D:\VisualStudioProjects\C#\CodeForces\RequiredRemainder\RequiredRemainder\obj\Debug\RequiredRemainder.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\RequiredRemainder\RequiredRemainder\obj\Debug\RequiredRemainder.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\RequiredRemainder\RequiredRemainder\obj\Debug\RequiredRemainder.exe
+D:\VisualStudioProjects\C#\CodeForces\RequiredRemainder\RequiredRemainder\obj\Debug\RequiredRemainder.pdb

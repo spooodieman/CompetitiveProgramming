@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anmol\\source\\repos\\StairPeakNeither\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8E8C14-AEF5-48D3-B80A-1F142DE902B0}|StairPeakNeither\\StairPeakNeither.csproj|c:\\users\\anmol\\source\\repos\\stairpeakneither\\stairpeakneither\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8E8C14-AEF5-48D3-B80A-1F142DE902B0}|StairPeakNeither\\StairPeakNeither.csproj|solutionrelative:stairpeakneither\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\source\\repos\\StairPeakNeither\\StairPeakNeither\\Program.cs",
+              "RelativeDocumentMoniker": "StairPeakNeither\\Program.cs",
+              "ToolTip": "C:\\Users\\anmol\\source\\repos\\StairPeakNeither\\StairPeakNeither\\Program.cs",
+              "RelativeToolTip": "StairPeakNeither\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:51:18.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

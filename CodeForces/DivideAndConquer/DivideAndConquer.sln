@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideAndConquer", "DivideAndConquer\DivideAndConquer.csproj", "{27F4817C-2A19-415B-917D-977E53F95C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F4817C-2A19-415B-917D-977E53F95C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F4817C-2A19-415B-917D-977E53F95C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F4817C-2A19-415B-917D-977E53F95C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F4817C-2A19-415B-917D-977E53F95C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B9A69A-8BC1-48A6-82EE-74CA0EDA6257}
+	EndGlobalSection
+EndGlobal

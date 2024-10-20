@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\PetyaAndStrings\PetyaAndStrings\bin\Debug\PetyaAndStrings.exe.config
+D:\VisualStudioProjects\C#\CodeForces\PetyaAndStrings\PetyaAndStrings\bin\Debug\PetyaAndStrings.exe
+D:\VisualStudioProjects\C#\CodeForces\PetyaAndStrings\PetyaAndStrings\bin\Debug\PetyaAndStrings.pdb
+D:\VisualStudioProjects\C#\CodeForces\PetyaAndStrings\PetyaAndStrings\obj\Debug\PetyaAndStrings.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\PetyaAndStrings\PetyaAndStrings\obj\Debug\PetyaAndStrings.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\PetyaAndStrings\PetyaAndStrings\obj\Debug\PetyaAndStrings.exe
+D:\VisualStudioProjects\C#\CodeForces\PetyaAndStrings\PetyaAndStrings\obj\Debug\PetyaAndStrings.pdb

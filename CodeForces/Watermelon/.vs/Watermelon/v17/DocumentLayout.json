@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudioProjects\\C#\\CodeForces\\Watermelon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6E1920-86BA-4376-A4BF-1BF57628131C}|Watermelon\\Watermelon.csproj|d:\\visualstudioprojects\\c#\\codeforces\\watermelon\\watermelon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6E1920-86BA-4376-A4BF-1BF57628131C}|Watermelon\\Watermelon.csproj|solutionrelative:watermelon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\C#\\CodeForces\\Watermelon\\Watermelon\\Program.cs",
+              "RelativeDocumentMoniker": "Watermelon\\Program.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\C#\\CodeForces\\Watermelon\\Watermelon\\Program.cs",
+              "RelativeToolTip": "Watermelon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:22:17.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

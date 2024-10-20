@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\CardboardPictures\CardboardPictures\bin\Debug\CardboardPictures.exe.config
+D:\VisualStudioProjects\C#\CodeForces\CardboardPictures\CardboardPictures\bin\Debug\CardboardPictures.exe
+D:\VisualStudioProjects\C#\CodeForces\CardboardPictures\CardboardPictures\bin\Debug\CardboardPictures.pdb
+D:\VisualStudioProjects\C#\CodeForces\CardboardPictures\CardboardPictures\obj\Debug\CardboardPictures.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\CardboardPictures\CardboardPictures\obj\Debug\CardboardPictures.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\CardboardPictures\CardboardPictures\obj\Debug\CardboardPictures.exe
+D:\VisualStudioProjects\C#\CodeForces\CardboardPictures\CardboardPictures\obj\Debug\CardboardPictures.pdb

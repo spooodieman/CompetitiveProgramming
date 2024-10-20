@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\DislikeOfThrees\DislikeOfThrees\bin\Debug\DislikeOfThrees.exe.config
+D:\VisualStudioProjects\C#\CodeForces\DislikeOfThrees\DislikeOfThrees\bin\Debug\DislikeOfThrees.exe
+D:\VisualStudioProjects\C#\CodeForces\DislikeOfThrees\DislikeOfThrees\bin\Debug\DislikeOfThrees.pdb
+D:\VisualStudioProjects\C#\CodeForces\DislikeOfThrees\DislikeOfThrees\obj\Debug\DislikeOfThrees.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\DislikeOfThrees\DislikeOfThrees\obj\Debug\DislikeOfThrees.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\DislikeOfThrees\DislikeOfThrees\obj\Debug\DislikeOfThrees.exe
+D:\VisualStudioProjects\C#\CodeForces\DislikeOfThrees\DislikeOfThrees\obj\Debug\DislikeOfThrees.pdb

@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\ManhattanCircle\ManhattanCircle\bin\Debug\ManhattanCircle.exe.config
+D:\VisualStudioProjects\C#\CodeForces\ManhattanCircle\ManhattanCircle\bin\Debug\ManhattanCircle.exe
+D:\VisualStudioProjects\C#\CodeForces\ManhattanCircle\ManhattanCircle\bin\Debug\ManhattanCircle.pdb
+D:\VisualStudioProjects\C#\CodeForces\ManhattanCircle\ManhattanCircle\obj\Debug\ManhattanCircle.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\ManhattanCircle\ManhattanCircle\obj\Debug\ManhattanCircle.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\ManhattanCircle\ManhattanCircle\obj\Debug\ManhattanCircle.exe
+D:\VisualStudioProjects\C#\CodeForces\ManhattanCircle\ManhattanCircle\obj\Debug\ManhattanCircle.pdb

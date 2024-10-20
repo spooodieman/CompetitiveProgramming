@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\Watermelon\Watermelon\bin\Debug\Watermelon.exe.config
+D:\VisualStudioProjects\C#\CodeForces\Watermelon\Watermelon\bin\Debug\Watermelon.exe
+D:\VisualStudioProjects\C#\CodeForces\Watermelon\Watermelon\bin\Debug\Watermelon.pdb
+D:\VisualStudioProjects\C#\CodeForces\Watermelon\Watermelon\obj\Debug\Watermelon.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\Watermelon\Watermelon\obj\Debug\Watermelon.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\Watermelon\Watermelon\obj\Debug\Watermelon.exe
+D:\VisualStudioProjects\C#\CodeForces\Watermelon\Watermelon\obj\Debug\Watermelon.pdb

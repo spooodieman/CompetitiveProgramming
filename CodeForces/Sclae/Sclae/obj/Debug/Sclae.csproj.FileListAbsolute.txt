@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\Sclae\Sclae\bin\Debug\Sclae.exe.config
+D:\VisualStudioProjects\C#\CodeForces\Sclae\Sclae\bin\Debug\Sclae.exe
+D:\VisualStudioProjects\C#\CodeForces\Sclae\Sclae\bin\Debug\Sclae.pdb
+D:\VisualStudioProjects\C#\CodeForces\Sclae\Sclae\obj\Debug\Sclae.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\Sclae\Sclae\obj\Debug\Sclae.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\Sclae\Sclae\obj\Debug\Sclae.exe
+D:\VisualStudioProjects\C#\CodeForces\Sclae\Sclae\obj\Debug\Sclae.pdb

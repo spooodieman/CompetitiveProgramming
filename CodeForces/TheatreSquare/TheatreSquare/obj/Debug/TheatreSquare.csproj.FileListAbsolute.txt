@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\TheatreSquare\TheatreSquare\bin\Debug\TheatreSquare.exe.config
+D:\VisualStudioProjects\C#\CodeForces\TheatreSquare\TheatreSquare\bin\Debug\TheatreSquare.exe
+D:\VisualStudioProjects\C#\CodeForces\TheatreSquare\TheatreSquare\bin\Debug\TheatreSquare.pdb
+D:\VisualStudioProjects\C#\CodeForces\TheatreSquare\TheatreSquare\obj\Debug\TheatreSquare.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\TheatreSquare\TheatreSquare\obj\Debug\TheatreSquare.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\TheatreSquare\TheatreSquare\obj\Debug\TheatreSquare.exe
+D:\VisualStudioProjects\C#\CodeForces\TheatreSquare\TheatreSquare\obj\Debug\TheatreSquare.pdb

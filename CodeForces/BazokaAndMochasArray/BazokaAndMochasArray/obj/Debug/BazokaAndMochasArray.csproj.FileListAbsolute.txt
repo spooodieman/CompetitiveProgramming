@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\BazokaAndMochasArray\BazokaAndMochasArray\bin\Debug\BazokaAndMochasArray.exe.config
+D:\VisualStudioProjects\C#\CodeForces\BazokaAndMochasArray\BazokaAndMochasArray\bin\Debug\BazokaAndMochasArray.exe
+D:\VisualStudioProjects\C#\CodeForces\BazokaAndMochasArray\BazokaAndMochasArray\bin\Debug\BazokaAndMochasArray.pdb
+D:\VisualStudioProjects\C#\CodeForces\BazokaAndMochasArray\BazokaAndMochasArray\obj\Debug\BazokaAndMochasArray.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\BazokaAndMochasArray\BazokaAndMochasArray\obj\Debug\BazokaAndMochasArray.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\BazokaAndMochasArray\BazokaAndMochasArray\obj\Debug\BazokaAndMochasArray.exe
+D:\VisualStudioProjects\C#\CodeForces\BazokaAndMochasArray\BazokaAndMochasArray\obj\Debug\BazokaAndMochasArray.pdb

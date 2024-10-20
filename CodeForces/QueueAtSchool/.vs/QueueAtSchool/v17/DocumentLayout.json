@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudioProjects\\C#\\CodeForces\\QueueAtSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09E8718-0A89-4BA6-A9BF-DA0DED6F950A}|QueueAtSchool\\QueueAtSchool.csproj|d:\\visualstudioprojects\\c#\\codeforces\\queueatschool\\queueatschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09E8718-0A89-4BA6-A9BF-DA0DED6F950A}|QueueAtSchool\\QueueAtSchool.csproj|solutionrelative:queueatschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\C#\\CodeForces\\QueueAtSchool\\QueueAtSchool\\Program.cs",
+              "RelativeDocumentMoniker": "QueueAtSchool\\Program.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\C#\\CodeForces\\QueueAtSchool\\QueueAtSchool\\Program.cs",
+              "RelativeToolTip": "QueueAtSchool\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:40:03.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

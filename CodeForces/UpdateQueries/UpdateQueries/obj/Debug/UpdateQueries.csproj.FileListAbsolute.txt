@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\C#\CodeForces\UpdateQueries\UpdateQueries\bin\Debug\UpdateQueries.exe.config
+D:\VisualStudioProjects\C#\CodeForces\UpdateQueries\UpdateQueries\bin\Debug\UpdateQueries.exe
+D:\VisualStudioProjects\C#\CodeForces\UpdateQueries\UpdateQueries\bin\Debug\UpdateQueries.pdb
+D:\VisualStudioProjects\C#\CodeForces\UpdateQueries\UpdateQueries\obj\Debug\UpdateQueries.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\CodeForces\UpdateQueries\UpdateQueries\obj\Debug\UpdateQueries.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\CodeForces\UpdateQueries\UpdateQueries\obj\Debug\UpdateQueries.exe
+D:\VisualStudioProjects\C#\CodeForces\UpdateQueries\UpdateQueries\obj\Debug\UpdateQueries.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudioProjects\\C#\\CodeForces\\PrimaryTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC111BF-388E-44B4-9B16-F5F87F7BB70D}|PrimaryTask\\PrimaryTask.csproj|d:\\visualstudioprojects\\c#\\codeforces\\primarytask\\primarytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC111BF-388E-44B4-9B16-F5F87F7BB70D}|PrimaryTask\\PrimaryTask.csproj|solutionrelative:primarytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\C#\\CodeForces\\PrimaryTask\\PrimaryTask\\Program.cs",
+              "RelativeDocumentMoniker": "PrimaryTask\\Program.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\C#\\CodeForces\\PrimaryTask\\PrimaryTask\\Program.cs",
+              "RelativeToolTip": "PrimaryTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T04:22:41.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
